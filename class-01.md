@@ -29,6 +29,41 @@
 
 - Adding characters such as angled brackets and copyright symbols
 
+---
 
+##### the Evolution of html
+
+- html 4
+
+- xhtml 1.0
+
+- html5
+
+##### doctypes
+Because *there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included). We will therefore be including one in each example for the rest of the *book.
+
+##### HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already.
+
+- The new HTML5 elements indicate the purpose of X different parts of a web page and help to describe its structure.
+
+- The new elements provide clearer code (compared X with using multiple elements).
+
+- Older browsers that do not understand HTML5 X elements need to be told which elements are block-level elements.
+
+- To make HTML5 elements work in Internet Explorer 8 X (and older versions of IE), extra JavaScript is needed, which is available free from Google.
+
+##### Process & Design
+
+- It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
+
+- Site maps allow you to plan the structure of a site.
+
+- Wireframes allow you to organize the information that will need to go on each page.
+
+- Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
+
+- You can differentiate between pieces of information using size, color, and style.
+
+- You can use grouping and similarity to help simplify the information you present.
 
 
