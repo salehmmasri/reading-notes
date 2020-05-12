@@ -41,8 +41,6 @@
 *Margin: margins sit outside the edge of the border. You can set the width of a margin to create a gap between the borders of two adjacent boxes.*
 
 *Padding: padding is the space between the border of a box and any content contained within it. Adding padding can increase the readability of its contents.*
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")]https://www.google.jo/url?sa=i&url=https%3A%2F%2Ftutorialehtml.com%2Fen%2Fcss-tutorial-margin-border-and-padding%2F&psig=AOvVaw353_hWQSU6N6UsNYH65wdW&ust=1589327553692000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCun9aArekCFQAAAAAdAAAAABAD)
-
 *The padding and margin properties are very helpful in adding space between various items on the page.*
 
 ---
