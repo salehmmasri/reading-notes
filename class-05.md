@@ -25,7 +25,9 @@
 - we can use three ways to use the colors in CSS :
 
 > rgb values for red, green and blue colors : rgb(200,150,90)
+
 > hex codes by write six-digit such as:#800000	
+
 > color names such as  write color:LightGray; to change the font color.
 
 ---
