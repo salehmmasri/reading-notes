@@ -8,7 +8,7 @@
 |           02           |[read 02](https://salehmmasri.github.io/reading-notes/class-02) |
 |           03           |[read 03](https://salehmmasri.github.io/reading-notes/class-03) |
 |           04           |[read 04](https://salehmmasri.github.io/reading-notes/class-04) |
-|           05           |                                                                |
+|           05           |[read 05](https://salehmmasri.github.io/reading-notes/class-05) |
 |           06           |                                                                |
 |           07           |                                                                |
 |           08           |                                                                |
