@@ -9,7 +9,7 @@
 |           03           |[read 03](https://salehmmasri.github.io/reading-notes/class-03) |
 |           04           |[read 04](https://salehmmasri.github.io/reading-notes/class-04) |
 |           05           |[read 05](https://salehmmasri.github.io/reading-notes/class-05) |
-|           06           |[read 05](https://salehmmasri.github.io/reading-notes/class-06) |
+|           06           |[read 06](https://salehmmasri.github.io/reading-notes/class-06) |
 |           07           |                                                                |
 |           08           |                                                                |
 |           09           |                                                                |
