@@ -4,11 +4,17 @@
 
  **object literal is a comma-separated list of name-value pairs inside of curly braces.Those values can be properties and functions. Here’s a snippet of an object literal with one property and one function.**
 > var greeting = {
+
 > fullname: "Saleh Almasri",
+
 > greet: (message, name) => {
+
 > console.log(message + " " + name + "!!");}
+
 > };
+
 > console.log(greeting.fullname);
+
 > greeting.greet("Greeting", greeting.fullname);
 
 *You can access methods or properties of an oject using . dot notation*
