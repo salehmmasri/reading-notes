@@ -9,10 +9,10 @@
 ---
 
 #### Some example
-- The <input> element is displayed in several ways, depending on the type attribute such as.
-    - <input type="text">
-    - <input type="radio">
-    - <input type="submit">
+- The input element is displayed in several ways, depending on the type attribute such as.
+    -  type="text">
+    -  type="radio">
+    - type="submit">
 - Text Fields    
 - <label> Element
 
@@ -36,6 +36,6 @@
 - An HTML web page has finished loading
 - An HTML input field was changed
 - An HTML button was clicked
-    - <button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>
+    - "<btn onclick="document.getElementById('demo').innerHTML = Date()">The time is?'"
     - onmouseover: work when user moves the mouse over an HTML element
     - onmouseout : when user moves the mouse away from an HTML element
