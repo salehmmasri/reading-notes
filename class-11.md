@@ -23,27 +23,27 @@ FTP programs allow you to transfer files from your local computer to your web se
 
 # Aideo and Audio HTML5
 
-- The HTML <video> element is used to show a video on a web page.
+- The HTML video> element is used to show a video on a web page.
 
 - The controls attribute adds video controls, like play, pause, and volume.
 
 - It is a good idea to always include width and height attributes. If height and width are not set, the page might flicker while the video loads.
 
-- The <source> element allows you to specify alternative video files which the browser may choose from. The browser will use the first recognized format.
+- The source element allows you to specify alternative video files which the browser may choose from. The browser will use the first recognized format.
 
-- The text between the <video> and </video> tags will only be displayed in browsers that do not support the <video> element.
+- The text between the <video and video> tags will only be displayed in browsers that do not support the <video> element.
 
 - To start a video automatically use the autoplay attribute:
 
 ---
 
-- The HTML <audio> element is used to play an audio file on a web page.
+- The HTML audio> element is used to play an audio file on a web page.
 
 - The controls attribute adds audio controls, like play, pause, and volume.
 
 - The <source> element allows you to specify alternative audio files which the browser may choose from. The browser will use the first recognized format.
 
-- The text between the <audio> and </audio> tags will only be displayed in browsers that do not support the <audio> element.
+- The text between the <audio and <audio> tags will only be displayed in browsers that do not support the <audio> element.
 
 
 
