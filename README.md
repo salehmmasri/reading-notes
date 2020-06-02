@@ -16,6 +16,8 @@
 |           10           |[read 10](https://salehmmasri.github.io/reading-notes/class-09) |
 |           11           |[read 11](https://salehmmasri.github.io/reading-notes/class-11) |
 |           12           |[read 12](https://salehmmasri.github.io/reading-notes/class-12) |
-|           13           |                                                                |
+|           14           |[read 14](https://salehmmasri.github.io/reading-notes/class-14) |
+|           14           |[read 14](https://salehmmasri.github.io/reading-notes/class-14) |
+|           15           |[read 14](https://salehmmasri.github.io/reading-notes/class-15) |
              
 
